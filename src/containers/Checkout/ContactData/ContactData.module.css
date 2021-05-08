@@ -1,0 +1,7 @@
+.OrderForm{
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 60%;
+    margin: 0 auto;
+    padding-left: 30px;
+}
